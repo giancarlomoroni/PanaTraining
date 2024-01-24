@@ -1,1 +1,1 @@
-print("Primer archivo de git.")
+print("Segundo archivo de git.")
