@@ -1,3 +1,4 @@
-print("linea1")
-print("Agrego una nueva linea.")
-print("Linea3")
+a = [1,2,3]
+print("estoy haciendo nada")
+print("Hola")
+print(a)
